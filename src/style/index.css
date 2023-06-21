@@ -49,9 +49,10 @@
 }
 .widget h1,
 .widget h2,
-.widget h3 {
+.widget h3,
+.widget h4 {
   display: block;
-  margin: 10px 0;
+  margin: 6px 0;
   text-align: center;
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
@@ -73,10 +74,10 @@
   background: #2cdfd3;
 }
 .widget ul.position-left {
-  left: -26px;
+  left: -27px;
 }
 .widget ul.position-right {
-  right: -27px;
+  right: -26px;
 }
 .widget ul li {
   list-style: none;
