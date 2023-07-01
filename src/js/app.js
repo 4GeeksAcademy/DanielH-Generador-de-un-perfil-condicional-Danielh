@@ -52,7 +52,8 @@ function render(variables = {}) {
             }"><i class="fab fa-linkedin"></i></a></li>
             <li><a href="https://instagram.com/${
               variables.instagram
-            }><i class="fab fa-instagram"></i></a></li>
+            }"><i class="fa-brands fa-instagram"></i></a></li>
+        </li>
           </ul>
         </div>
     `;
